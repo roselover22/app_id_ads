@@ -1,14 +1,7 @@
 {
   "result": {
-    "status": 1,
-    "msg": "Data Available",
-    "version": "23.0",
-    "version_desc": "1.Quote Speaker (by just one Click your Quote You can Listen) Added\r\n2.You can Removed Ads Via In App-Purchase option\r\n3.Now Daily Status will Update\r\n4.Picture Status - Quate , Staus Creator Added\r\n5.Whatsapp Status Saver Add\r\n6.Major Crash in Latest Phone Solved \r\nGive Good Rate Thanks\r\n",
-    "Update_btn": "Update now",
-    "Update_Title": "Update App Available",
-    "Update_Package": "best.status.quotes.whatsapp",
-    "Update_Cancelable": "0",
-    "Prmotion_link": "By This App http://shorturl.at/fANZ5",
+    "is_erbnigads_on": "on",
+    "is_promotion_on": "on",
     "appinfo": [
       {
         "app_link": "best.hindi.status",
